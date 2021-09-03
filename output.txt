@@ -1,0 +1,8 @@
+one 3
+five 4
+three 5
+eight 5
+seven 5
+fifty 5
+fifetytwo 9
+ninetyseven 11
